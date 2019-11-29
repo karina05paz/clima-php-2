@@ -4,7 +4,7 @@ function getClima() {
     $.ajax({
         method: 'get',
         crossDomain: true, //cross puxa os dados da pi
-        url: 'http://api.openweathermap.org/data/2.5/weather?id=3468879&appid=f3cdb6fab12191d0effe827c82cb1c67',
+        url: 'https://api.openweathermap.org/data/2.5/weather?id=3468879&appid=f3cdb6fab12191d0effe827c82cb1c67',
         dataType: 'json',
         success: function (data) {
 

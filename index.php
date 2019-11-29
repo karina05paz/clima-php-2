@@ -39,7 +39,7 @@ and open the template in the editor.
                     <p>
                         <span id="situacao"></span>
                        
-                         <img id="icone" src="img/icones/4.png"/>
+                         <img id="icone" src="img/icones/04n.png"/>
                         
                     </p>
                       
